@@ -82,11 +82,11 @@ public class newtoursTest extends Hooks {
         //«Passengers»:
 
         bookAFlightPage.setFirstFirstName("Ivan");
-        bookAFlightPage.setSecondFirstName("Ivanov");
+        bookAFlightPage.setFirstLastName("Ivanov");
         bookAFlightPage.setFirstMeal("Hindu");
 
-        bookAFlightPage.setSecondLastName("Irina");
-        bookAFlightPage.setFirstLastName("Ivanova");
+        bookAFlightPage.setSecondFirstName("Irina");
+        bookAFlightPage.setSecondLastName("Ivanova");
         bookAFlightPage.setSecondMeal("Bland");
 
         //«Credit Card»:
